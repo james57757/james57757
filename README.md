@@ -1,6 +1,6 @@
 ### About
-Most of my recent work has been production frontend development (Next.js, React Native) for startups on private or organization-owned repositories.
+I’m a product-oriented full-stack engineer with a strong frontend foundation, shipping production features across web and mobile in startup environments.
 
-My focus has been shipping user-facing features, managing complex UI state, and integrating with APIs in real product environments.
+My work focuses on owning user-facing functionality end-to-end — from designing complex UI state and workflows to integrating and shaping backend APIs, handling data flow, and ensuring reliability in real product systems.
 
-Public repositories here represent side projects, experiments, and tooling.
+Most of my recent production work lives in private or organization-owned repositories. The public repositories here reflect side projects, experiments, and tooling that demonstrate full-stack feature ownership, API integration, and system design thinking.
